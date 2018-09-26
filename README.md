@@ -1,2 +1,2 @@
-# solitaire
+# Solitaire-game
 Solitaire Game
